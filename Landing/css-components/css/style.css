@@ -1,3 +1,6 @@
+@import url("components/flexbox.css");
+
+/*Landing*/
 body {
 	background: rgb(245,245,245);
 	font-size: 25px;
@@ -64,4 +67,9 @@ p{
 }
 #footer a:hover {
   color: white;
+}
+
+/*Components*/
+.text-center{
+  text-align: center;
 }
